@@ -1,0 +1,7 @@
+{
+  "appId": "fr.capacitor.camera",
+  "appName": "capacitor-camera",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
